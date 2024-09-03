@@ -1,6 +1,6 @@
 # Stopwatch App with Flutter
 
-This README provides an overview of a simple stopwatch app built using Flutter. The app displays the elapsed time in a static text format and allows users to pause, play, and reset the stopwatch.
+This is a simple stopwatch app built using Flutter. The app displays the elapsed time in a static text format and allows users to pause, play, and reset the stopwatch.
 
 ## Features
 
